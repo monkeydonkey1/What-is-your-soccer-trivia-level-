@@ -1,0 +1,14 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: #17d3ff;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
+
+.worldchamps {
+    width: 400px;
+    display: none;
+}
